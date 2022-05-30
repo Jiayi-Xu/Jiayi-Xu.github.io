@@ -75,10 +75,11 @@
 					<h5>ABOUT</h5>
 				</div>
 				<div class="col-lg-6">
-					<p>I'm web designer & front-end developer with 7 years of professional experience. I'm interested in all kinds of visual communication, but my major focus is on designing web, mobile & tablet interfaces. I also have skills in other fields like branding, icon design or web development.</p>
+					<p> Hello, Welcome to my personal website! My name is Xujiayi, a junior student in China University of Geosciences, majoring in information management and information system. My biggest characteristic is never giving up. I love challenging things and always being charged with positive attitude. Becoming a better self is what keeps me going all the time. This website only introduces one aspect of me for you. Hoping you can know more about me in the future~ </p>
+					<p> 你好呀, 欢迎来到我的个人主页！我叫徐嘉艺，是中国地质大学的一名大三学生，目前就读于信息管理与信息系统专业。我最大的特点是永不言弃，我总是对生活充满积极的态度，热衷于充满挑战的事情。成为更好的自己是我一直以来前进的动力。当然~这个网站只能向您展示我的一个方面，非常期待日后您可以认识到更多样的我！ </p>
 				</div>
 				<div class="col-lg-3">
-					<p><a href="#"><i class="icon-file"></i></a> <sm>DOWNLOAD PDF</sm></p>
+					<p><a href="E:\XJY\个人主页\个人网站（只有HTML）\Theme\assets\欧莱雅投递简历.pdf"><i class="icon-file"></i></a> <sm>DOWNLOAD PDF</sm></p>
 				</div>
 				
 			</div><!--/.row -->
